@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+scikit-learn
+TensorFlow = 2.10
+Keras = 2.10
+
+
