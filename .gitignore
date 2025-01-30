@@ -92,5 +92,8 @@ target/
 # Exclude trained models
 /models/
 
+# Exclude logs
+/logs/
+
 # exclude data from source control by default
 # /data/
